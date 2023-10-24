@@ -2,13 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div>
-      <h2>
-        <span style={{ color: "red", textAlign: "center" }}>₹ Expense</span>{" "}
-        Tracker
-      </h2>
-    </div>
+    <h1>
+      <span style={{ color: "#c0392b" }}>Expense</span> Tracker
+    </h1>
   );
 };
-
 export default Header;
