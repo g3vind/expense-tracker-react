@@ -1,6 +1,6 @@
 # Expense Tracker with React.js, Context API, and Vite
 
-# Live Demo : https://expenses-tracker-react-app1.netlify.app/
+#- [Live Demo](https://expenses-tracker-react-app1.netlify.app/)
 
 ![Expense Tracker Demo](demo.gif)
 
