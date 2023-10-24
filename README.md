@@ -1,5 +1,7 @@
 # Expense Tracker with React.js, Context API, and Vite
 
+# Live Demo : https://expenses-tracker-react-app1.netlify.app/
+
 ![Expense Tracker Demo](demo.gif)
 
 This is a simple Expense Tracker application built with React.js using the Context API for state management and Vite as the build tool. With this application, you can manage your expenses and income. Features include:
